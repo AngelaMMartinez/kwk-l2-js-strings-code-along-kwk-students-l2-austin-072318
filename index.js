@@ -3,4 +3,4 @@ let currentUser="Angela Murillo"
 let welcomeMessage="Welcome to Klossybook, "
 welcomeMessage= welcomeMessage+currentUser
 welcomeMessage=welcomeMessage + "!"
-excitedWelcomeMessage="Welcome to Klossybook"
+excitedWelcomeMessage="WELCOME TO KLOSSYBOOK"
