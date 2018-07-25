@@ -3,8 +3,8 @@ let currentUser="Angela Murillo"
 let welcomeMessage="Welcome to Klossybook, "
 welcomeMessage= welcomeMessage+currentUser
 welcomeMessage=welcomeMessage + "!"
-excitedWelcomeMessage="WELCOME TO KLOSSYBOOK, "
+let excitedWelcomeMessage="WELCOME TO KLOSSYBOOK, "
 excitedWelcomeMessage=excitedWelcomeMessage+currentUser.toUpperCase()
 excitedWelcomeMessage=excitedWelcomeMessage+"!"
-shortGreeting="Welcome, "
-
+let shortGreeting="Welcome, "
+let shortGreeting+currentUser.chartAt(0)
