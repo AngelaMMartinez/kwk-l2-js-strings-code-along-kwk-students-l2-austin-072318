@@ -5,3 +5,4 @@ welcomeMessage= welcomeMessage+currentUser
 welcomeMessage=welcomeMessage + "!"
 excitedWelcomeMessage="WELCOME TO KLOSSYBOOK, "
 excitedWelcomeMessage=excitedWelcomeMessage+currentUser.toUpperCase()
+excitedWelcomeMessage=excitedWelcomeMessage+"!"
