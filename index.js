@@ -6,5 +6,5 @@ welcomeMessage=welcomeMessage + "!"
 let excitedWelcomeMessage="WELCOME TO KLOSSYBOOK, "
 excitedWelcomeMessage=excitedWelcomeMessage+currentUser.toUpperCase()
 excitedWelcomeMessage=excitedWelcomeMessage+"!"
-let shortGreeting="Welcome, " 
+let shortGreeting="Welcome, " + currentUser.chartAt(0)
 let shortGreeting = shortGreeting+ currentUser.chartAt(0)
