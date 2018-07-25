@@ -8,3 +8,4 @@ excitedWelcomeMessage=excitedWelcomeMessage+currentUser.toUpperCase()
 excitedWelcomeMessage=excitedWelcomeMessage+"!"
 let shortGreeting= "Welcome, " 
 shortGreeting = shortGreeting+ currentUser.charAt(0) 
+shortGreeting+shortGreeting+"!"
